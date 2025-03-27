@@ -1,5 +1,5 @@
 # 2025-presentacion-JuanNieto232323
-2025-presentacion-JuanNieto232323 created by GitHub Classroom
+
 
 Presentacion Paradigmas 2025
 
